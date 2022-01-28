@@ -82,7 +82,7 @@ int main() {
   if (get_protein_max(cereals, length)) {
     test_int_equal(get_protein_max(cereals, length)->protein, 6);
   }
-  test_float_equal(get_calories_avg(cereals, length), 106.216);
+  test_float_equal(get_calories_avg(cereals, length), 107.162);
 
   Cereal *best = get_protein_per_calorie_max(cereals, length);
 
