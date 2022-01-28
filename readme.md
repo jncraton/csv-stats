@@ -11,3 +11,12 @@ Usage
 ```
 
 Output includes a number of tests to ensure the program works correctly followed by a number of extremely useful breakfast cereal statistics.
+
+Testing
+-------
+
+The code includes a number of embedded tests that can be run using:
+
+```
+make test
+```
