@@ -4,7 +4,7 @@ name	calories	protein	fiber
 All-Bran	70	4	9
 All-Bran_with_Extra_Fiber	50	4	14
 Almond_Delight	110	2	1
-Apple_Cinnamon_Cheerios	110	2	1.5
+Apple_Cinnamon_Cheerios	110	2	2
 Apple_Jacks	110	2	1
 Basic_4	130	3	2
 Bran_Chex	90	2	4
@@ -34,7 +34,7 @@ Grape_Nuts_Flakes	100	3	3
 Grape-Nuts	110	3	3
 Great_Grains_Pecan	120	3	3
 Honey_Graham_Ohs	120	1	1
-Honey_Nut_Cheerios	110	3	1.5
+Honey_Nut_Cheerios	110	3	2
 Honey-comb	110	1	0
 Just_Right_Crunchy__Nuggets	110	2	1
 Just_Right_Fruit_&_Nut	140	3	2
@@ -48,14 +48,14 @@ Multi-Grain_Cheerios	100	2	2
 Nut&Honey_Crunch	120	2	0
 Nutri-Grain_Almond-Raisin	140	3	3
 Nutri-grain_Wheat	90	3	3
-Oatmeal_Raisin_Crisp	130	3	1.5
+Oatmeal_Raisin_Crisp	130	3	2
 Post_Nat._Raisin_Bran	120	3	6
 Product_19	100	3	1
 Puffed_Rice	50	1	0
 Puffed_Wheat	50	2	1
 Quaker_Oat_Squares	100	4	2
 Raisin_Bran	120	3	5
-Raisin_Nut_Bran	100	3	2.5
+Raisin_Nut_Bran	100	3	3
 Raisin_Squares	90	2	2
 Rice_Chex	110	1	0
 Rice_Krispies	110	2	0
