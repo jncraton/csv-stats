@@ -1,7 +1,9 @@
 all: cereal
 
 cereal: cereal.c
-	gcc $< -Wall -Wextra -o $@
+	gcc $< -o $@
+
+test: cereal
 	./cereal
 
 clean:
