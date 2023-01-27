@@ -26,4 +26,4 @@ make test
 Implementation
 --------------
 
-In order to complete this assignment, you will load the rows of the CSV file into an array of [structs](https://en.wikibooks.org/wiki/C_Programming/Advanced_data_types#Structs). This will give you practice using more advanced compound data types. You will also be using [functions](https://en.wikibooks.org/wiki/C_Programming/Procedures_and_functions) and [pointers](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays).
+In order to complete this assignment, you will load the rows of the CSV file into an array of [structs](https://en.wikibooks.org/wiki/C_Programming/Advanced_data_types#Structs). This will give you practice using more advanced compound data types. You will also be using [functions](https://en.wikibooks.org/wiki/C_Programming/Procedures_and_functions) and [pointers](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays). `string.h` has been included, and you are welcome to use the functions it provides.
