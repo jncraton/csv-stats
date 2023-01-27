@@ -76,6 +76,13 @@ int main() {
   test_int_equal(cereals[4].protein, 17);
 
   int length = load_cereals("cereals.tsv", cereals, 100);
+  test_int_equal(cereals[0].calories, 70);
+  test_int_equal(cereals[0].protein, 4);
+  test_int_equal(cereals[0].fiber, 10);
+  test_int_equal(cereals[4].protein, 2);
+  test_int_equal(cereals[73].calories, 110);
+  test_int_equal(cereals[73].protein, 2);
+  test_int_equal(cereals[73].fiber, 1);
 
   test_int_equal(length, 74);
 
