@@ -1,10 +1,10 @@
-all: cereal
+all: showstats
 
-cereal: cereal.c
+showstats: showstats-impl.c
 	gcc $< -o $@
 
-test: cereal
-	./cereal
+test: showstats
+	./showstats
 
 clean:
-	rm -f cereal
+	rm -f showstats
