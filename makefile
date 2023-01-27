@@ -1,6 +1,6 @@
 all: showstats
 
-showstats: showstats-impl.c
+showstats: showstats.c
 	gcc $< -o $@
 
 test: showstats
