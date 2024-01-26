@@ -14,7 +14,9 @@ int load_cereals(char *filename, Cereal * cereals, int size) {
   /*
    * Loads tsv cereal data from `filename` into `cereals`.
    *
-   * Records read must not exceed `size`. 
+   * Records read must not exceed `size`.
+   *
+   * The number of records actually read should be returned.
    *
    * For the purpose of this assignment, it is acceptable to assume the the
    * input file is small and read the entire file into a contiguous buffer.
