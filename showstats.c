@@ -26,6 +26,12 @@ int load_cereals(char *filename, Cereal * cereals, int size) {
 }
 
 float get_calories_avg(Cereal * cereals, int num_cereals) {
+ /*
+  * Returns the average calories from the array of `cereals`
+  *
+  * `num_cereals` is the size of the cereals arrays
+  */
+
   return 0.0;
 }
 
