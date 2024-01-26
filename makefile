@@ -1,7 +1,7 @@
 all: showstats
 
 showstats: showstats.c
-	gcc $< -o $@
+	gcc $< -Wall -o $@
 
 test: showstats
 	./showstats
