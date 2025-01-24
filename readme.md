@@ -5,6 +5,15 @@ How do we know what to eat for breakfast? If you want to get strong, you'll need
 
 This program will help you sort through your options by parsing a CSV file containing breakfast cereals and displaying a few basic stats. The stats used here are extremely basic, as we are only computing the [arithmetic mean](https://en.wikipedia.org/wiki/Arithmetic_mean)
 
+Learning Outcomes
+-----------------
+
+After completing this lab, students will be able to:
+
+1. Parse simple text files to extract fields of interest
+2. Use structs to represent data
+3. Reference structs and array items using pointers
+
 Usage
 -----
 
